@@ -6,6 +6,7 @@ public class myCodes {
 		System.out.println("Welcome to MyCodes");
 		System.out.println("Pull GitHub into Eclipse");
 		System.out.println("Git Import Successful");
+		System.out.println("New data");
 	}
 
 }
